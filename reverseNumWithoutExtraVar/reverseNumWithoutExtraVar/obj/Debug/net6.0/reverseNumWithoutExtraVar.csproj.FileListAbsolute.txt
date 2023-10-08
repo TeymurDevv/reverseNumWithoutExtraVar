@@ -1,0 +1,14 @@
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\bin\Debug\net6.0\reverseNumWithoutExtraVar.exe
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\bin\Debug\net6.0\reverseNumWithoutExtraVar.deps.json
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\bin\Debug\net6.0\reverseNumWithoutExtraVar.runtimeconfig.json
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\bin\Debug\net6.0\reverseNumWithoutExtraVar.dll
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\bin\Debug\net6.0\reverseNumWithoutExtraVar.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.AssemblyInfoInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.AssemblyInfo.cs
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.dll
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\refint\reverseNumWithoutExtraVar.dll
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\reverseNumWithoutExtraVar.genruntimeconfig.cache
+C:\Users\TeymurDev\Desktop\C# Projects\reverseNumWithoutExtraVar\reverseNumWithoutExtraVar\obj\Debug\net6.0\ref\reverseNumWithoutExtraVar.dll
